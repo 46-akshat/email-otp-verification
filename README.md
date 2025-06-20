@@ -1,5 +1,6 @@
 # email-otp-verification
 📧 Spring Boot Email Verification with OTP
+
 A robust Spring Boot application that handles user registration with email verification using OTP (One Time Password). This project ensures only valid users can activate their accounts by verifying their identity through an email-based OTP system.
 
 🚀 Features
