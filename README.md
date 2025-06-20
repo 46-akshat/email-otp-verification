@@ -20,6 +20,7 @@ A robust Spring Boot application that handles user registration with email verif
 🧠 Enhanced Capabilities (Planned / Available)
 
 ✅ Indicates already implemented
+
 🔜 Indicates planned for enhancement
 
 Feature	Status
