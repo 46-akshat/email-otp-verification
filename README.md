@@ -71,8 +71,7 @@ cd email-verification-springboot
 # Configure SMTP in application.properties
 # (Gmail SMTP can be used for dev)
 
-# Run the app
-./mvnw spring-boot:run
+
 
 📧 Contact
 Made with ❤️ by Akshat Jain
