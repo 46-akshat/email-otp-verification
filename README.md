@@ -18,10 +18,12 @@ A robust Spring Boot application that handles user registration with email verif
 ✅ Clean, Scalable Spring Boot Codebase
 
 🧠 Enhanced Capabilities (Planned / Available)
+
 ✅ Indicates already implemented
 🔜 Indicates planned for enhancement
 
 Feature	Status
+
 OTP Expiry Mechanism (e.g., 5 mins)	🔜 Coming Soon
 Resend OTP with cooldown	🔜 Coming Soon
 OTP Rate Limiting	🔜 Coming Soon
@@ -34,6 +36,7 @@ H2 In-Memory DB for testing	✅ Ready-to-use
 Clean MVC structure	✅ Implemented
 
 🛠️ Tech Stack
+
 Java 17+
 
 Spring Boot
