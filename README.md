@@ -3,6 +3,7 @@
 A robust Spring Boot application that handles user registration with email verification using OTP (One Time Password). This project ensures only valid users can activate their accounts by verifying their identity through an email-based OTP system.
 
 🚀 Features
+
 ✅ User Registration with Email & Password
 
 ✅ Random OTP Generation (Numeric)
@@ -49,6 +50,7 @@ Lombok (optional)
 JavaMailSender (SMTP)
 
 📬 How It Works
+
 ✅ User Registers
 
 📤 OTP is generated & emailed
