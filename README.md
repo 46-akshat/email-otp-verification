@@ -48,23 +48,11 @@ Lombok (optional)
 
 JavaMailSender (SMTP)
 
-📂 Project Structure
-bash
-Copy
-Edit
-src/
-├── controller        # Handles HTTP requests
-├── service           # Core business logic
-├── model             # JPA entity (User)
-├── repository        # Data access layer
-├── requests/response # DTOs
-└── utils             # Email utility class
 📬 How It Works
 ✅ User Registers
 
 📤 OTP is generated & emailed
 
-⏱️ OTP can expire after time (optional)
 
 🔐 User verifies OTP via endpoint
 
